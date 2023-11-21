@@ -4,7 +4,7 @@
 <p align="right"> 
   <img src="https://komarev.com/ghpvc/?username=mehmetkilincc&label=Profile%20views&color=0e75b6&style=flat" alt="mehmetkilincc" />
 </p>
-<p aling="center">
+<div aling="center">
   <p>
     🔭 I’m currently working on **.Net Core Technologies** 🔭
   </p>
@@ -17,7 +17,7 @@
   <p>
     📫 How to reach me **mehmetkilinc2734@gmail.com** 📫
   </p>
-</p>
+</div>
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
