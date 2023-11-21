@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mehmet Kılınç</h1>
 <h3 align="center">A Software Engineer from Türkiye</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehmetkilincc&label=Profile%20views&color=0e75b6&style=flat" alt="mehmetkilincc" /> </p>
+<p align="right"> 
+  <img src="https://komarev.com/ghpvc/?username=mehmetkilincc&label=Profile%20views&color=0e75b6&style=flat" alt="mehmetkilincc" />
+</p>
 
 - 🔭 I’m currently working on **.Net Core Technologies**
 
@@ -11,13 +13,17 @@
 
 - 📫 How to reach me **mehmetkilinc2734@gmail.com**
 
-<h3 align="center">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mehmetkilincc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehmetkilincc/" height="30" width="40" /></a>
-<a href="https://instagram.com/mehmetkilinc2734" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mehmetkilinc2734" height="30" width="40" /></a>
+<h3 align="center">Connect with me</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/mehmetkilincc/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehmetkilincc/" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/mehmetkilinc2734" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mehmetkilinc2734" height="30" width="40" />
+  </a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
