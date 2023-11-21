@@ -11,7 +11,7 @@
     🌱 I’m currently learning <b>React.Js</b> 🌱
   </p>
   <p align="center">
-    💬 Ask me about **React.Js and <b>.Net Core</b> 💬
+    💬 Ask me about <b>React.Js</b> and <b>.Net Core</b> 💬
   </p>
   <p align="center">
     📫 How to reach me <b>mehmetkilinc2734@gmail.com</b> 📫
