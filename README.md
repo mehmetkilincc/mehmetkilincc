@@ -17,6 +17,15 @@
     📫 How to reach me <b>mehmetkilinc2734@gmail.com</b> 📫
   </p>
 <h3 align="center">Connect with me</h3>
+
+    <p align="center">
+  <a href="https://skillicons.dev">
+    <a>
+    <img src="https://skillicons.dev/icons?i=instagram,discord,linkedin,jenkins" />
+  </a>
+</p>
+
+
 <p align="center">
   <a href="https://linkedin.com/in/mehmetkilincc/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehmetkilincc/" height="30" width="40" />
@@ -30,7 +39,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,bootstrap,git" />
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,html,css,bootstrap,react,redux,git,github,postgres,postman,visualstudio,vscode" />
   </a>
 </p>
 
