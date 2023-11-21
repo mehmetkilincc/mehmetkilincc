@@ -21,12 +21,11 @@
 <h3 align="center">Connect with me</h3>
 
 <p align="center">
-  <a href="https://instagram.com/mehmetkilinc2734" target="blank">
-    <img src="https://skillicons.dev/icons?i=instagram" /> 
-  </a>
-  &nbsp;
   <a href="https://linkedin.com/in/mehmetkilincc/" target="blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://instagram.com/mehmetkilinc2734" target="blank">
+    <img src="https://skillicons.dev/icons?i=instagram" /> 
   </a>
 </p>
 
