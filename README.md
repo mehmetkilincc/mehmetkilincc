@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mehmet Kılınç</h1>
+<<h1 align="center">Hi 👋, I'm Mehmet Kılınç</h1>
 <h3 align="center">A Software Engineer from Türkiye</h3>
 
 <p align="center"> 
@@ -24,7 +24,7 @@
   <a href="https://instagram.com/mehmetkilinc2734" target="blank">
     <img src="https://skillicons.dev/icons?i=instagram" /> 
   </a>
-  <p> </p>
+  &nbsp;
   <a href="https://linkedin.com/in/mehmetkilincc/" target="blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
