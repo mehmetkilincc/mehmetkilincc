@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mehmet Kılınç</h1>
 <h3 align="center">A Software Engineer from Türkiye</h3>
 
-<p align="right"> 
+<p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=mehmetkilincc&label=Profile%20views&color=0e75b6&style=flat" alt="mehmetkilincc" />
 </p>
 
@@ -24,6 +24,7 @@
   <a href="https://instagram.com/mehmetkilinc2734" target="blank">
     <img src="https://skillicons.dev/icons?i=instagram" /> 
   </a>
+  <p> </p>
   <a href="https://linkedin.com/in/mehmetkilincc/" target="blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
