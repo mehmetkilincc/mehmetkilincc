@@ -4,21 +4,18 @@
 <p align="right"> 
   <img src="https://komarev.com/ghpvc/?username=mehmetkilincc&label=Profile%20views&color=0e75b6&style=flat" alt="mehmetkilincc" />
 </p>
-<div align="center">
-  <p>
+  <p align="center">
     🔭 I’m currently working on **.Net Core Technologies** 🔭
   </p>
-  <p>
+  <p align="center">
     🌱 I’m currently learning **React.Js** 🌱
   </p>
-  <p>
+  <p align="center">
     💬 Ask me about **React.Js and .Net Core** 💬
   </p>
-  <p>
+  <p align="center">
     📫 How to reach me **mehmetkilinc2734@gmail.com** 📫
   </p>
-</div>
-
 <h3 align="center">Connect with me</h3>
 <p align="center">
   <a href="https://linkedin.com/in/mehmetkilincc/" target="blank">
