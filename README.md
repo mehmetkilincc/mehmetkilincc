@@ -4,7 +4,7 @@
 <p align="right"> 
   <img src="https://komarev.com/ghpvc/?username=mehmetkilincc&label=Profile%20views&color=0e75b6&style=flat" alt="mehmetkilincc" />
 </p>
-<div aling="center">
+<div align="center">
   <p>
     🔭 I’m currently working on **.Net Core Technologies** 🔭
   </p>
